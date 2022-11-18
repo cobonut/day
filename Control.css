@@ -1,0 +1,22 @@
+h1{
+    color: #fa8107;
+    margin-left: 500px;
+    margin-top: 50px;
+    position: relative;
+    }
+body{
+    background-color: #DBE9F6;
+    color: #386824;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+h2{
+    color: #8B4322;
+    font-size: xx-large;
+}
+div{
+    float: right;
+}
+span{
+    font-size: x-large;
+    color: darkblue;
+}
